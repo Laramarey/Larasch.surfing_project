@@ -1,0 +1,12 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+}
+
+.jumbotron-hero {
+  height: 500px;
+  background-image: url('surfing.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
